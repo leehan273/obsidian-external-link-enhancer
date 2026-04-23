@@ -1,9 +1,9 @@
 {
 	"id": "external-link-enhancer",
 	"name": "External Link Enhancer",
-	"version": "1.0.0",
+	"version": "0.9.0",
 	"minAppVersion": "1.12.0",
-	"description": "Opengraph link in your notes",
+	"description": "External link enhancer",
 	"author": "Lee Han",
 	"authorUrl": "https://github.com/leehan273",
 	"isDesktopOnly": true
