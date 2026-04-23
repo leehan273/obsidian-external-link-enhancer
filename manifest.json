@@ -1,0 +1,10 @@
+{
+	"id": "external-link-enhancer",
+	"name": "External Link Enhancer",
+	"version": "1.0.0",
+	"minAppVersion": "1.12.0",
+	"description": "Opengraph link in your notes",
+	"author": "Lee Han",
+	"authorUrl": "https://github.com/leehan273",
+	"isDesktopOnly": true
+}
