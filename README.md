@@ -75,6 +75,14 @@ Displays a preview of external links in Open Graph link format.
 - Reading View: Mouse hover
 
 
+## How to Install
+
+Please use BRAT: [Quick guide for using BRAT](https://tfthacker.com/brat-quick-guide)
+
+```text
+https://github.com/leehan273/obsidian-external-link-enhancer
+```
+
 ## Limitations
 
 Due to how it works, the features will not function properly if a site has anti-scraping measures in place.
@@ -85,3 +93,4 @@ Well-known sites with anti-scraping measures include:
 - Reddit
 
 The features may not work correctly on these sites.
+
